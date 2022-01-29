@@ -1,0 +1,5 @@
+name: ${project.name}
+main: ${project.groupId}.playerinfogui.PlayerInfoGUI
+authors: ["Toples"]
+version: ${project.version}
+description: ${project.description}
