@@ -1,5 +1,5 @@
 # PlayerInfoGUI
-A GUI plugin for viewing player information
+Simple GUI plugin for viewing player information
 
 Commands usage:
 - /playerinfogui : to opens the playerinfogui
